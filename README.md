@@ -2,13 +2,19 @@
 A curated list of awesome music style transfer papers
 
 ## Papers
+#### Generation
 - [MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer](https://archives.ismir.net/ismir2018/paper/000204.pdf) | [**ISMIR 2018**]
   + [brunnergino/MIDI-VAE](https://github.com/brunnergino/MIDI-VAE) | Keras
 
 - [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [**ICLR 2019**]
   + [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) | PyTorch
+#### Detection
+- [Music Mood Detection Based On Audio And Lyrics With Deep Neural Net](https://arxiv.org/abs/1809.07276) | [**ISMIR 2018**]
 
 ## Dataset
+- [DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm](https://archives.ismir.net/ismir2018/paper/000035.pdf) | [**ISMIR 2018**]
+  + [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI)
+
 - [FMA: A DATASET FOR MUSIC ANALYSIS](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/75_Paper.pdf) | [**ISMIR 2017**]
   + [mdeff/fma](https://github.com/mdeff/fma)
 
