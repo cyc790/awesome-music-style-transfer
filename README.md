@@ -6,4 +6,5 @@ A curated list of awesome music style transfer papers
   + [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) | PyTorch
 
 ## Dataset
-- [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html)
++ [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html)
+  - [LEARNING FEATURES OF MUSIC FROM SCRATCH](https://pdfs.semanticscholar.org/fc92/4cd249276419bf1e4b9327dd6cf088e42fa6.pdf) | [**ICLR 2017**]
