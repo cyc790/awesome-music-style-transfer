@@ -13,13 +13,13 @@ A curated list of awesome music style transfer papers
 
 ## Dataset
 - [DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm](https://archives.ismir.net/ismir2018/paper/000035.pdf) | [**ISMIR 2018**]
-  + [gabolsgabs/DALI](https://github.com/gabolsgabs/DALI)
+  + [DALI](https://github.com/gabolsgabs/DALI)
 
 - [OpenMIC-2018: An Open Dataset for Multiple Instrument Recognition](https://bmcfee.github.io/papers/ismir2018_openmic.pdf) | [**ISMIR 2018**]
-  + [cosmir/openmic-2018](https://github.com/cosmir/openmic-2018)
+  + [openmic-2018](https://github.com/cosmir/openmic-2018)
 
 - [FMA: A DATASET FOR MUSIC ANALYSIS](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/75_Paper.pdf) | [**ISMIR 2017**]
-  + [mdeff/fma](https://github.com/mdeff/fma)
+  + [fma](https://github.com/mdeff/fma)
 
 - [LEARNING FEATURES OF MUSIC FROM SCRATCH](https://pdfs.semanticscholar.org/fc92/4cd249276419bf1e4b9327dd6cf088e42fa6.pdf) | [**ICLR 2017**]
   + [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html)
