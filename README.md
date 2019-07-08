@@ -2,6 +2,9 @@
 A curated list of awesome music style transfer papers
 
 ## Papers
+- [MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer](https://archives.ismir.net/ismir2018/paper/000204.pdf) | [**ISMIR 2018**]
+  + [brunnergino/MIDI-VAE](https://github.com/brunnergino/MIDI-VAE) | Keras
+
 - [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [**ICLR 2019**]
   + [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) | PyTorch
 
