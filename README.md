@@ -22,6 +22,8 @@ A curated list of awesome music style transfer papers
 
 - [FMA: A DATASET FOR MUSIC ANALYSIS](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/75_Paper.pdf) | [**ISMIR 2017**]
   + [fma](https://github.com/mdeff/fma)
+  [FMA](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)  
+<img src="https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG" width="50%" height="50%">
 
 - [LEARNING FEATURES OF MUSIC FROM SCRATCH](https://pdfs.semanticscholar.org/fc92/4cd249276419bf1e4b9327dd6cf088e42fa6.pdf) | [**ICLR 2017**]
   + [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html)
