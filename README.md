@@ -8,6 +8,8 @@ A curated list of awesome music style transfer papers
 
 - [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [**ICLR 2019**]
   + [facebookresearch/music-translation](https://github.com/facebookresearch/music-translation) | PyTorch
+  
+- [Symbolic Music Genre Transfer with CycleGAN](https://arxiv.org/abs/1809.07575) | [**ICTAI 2018**]
 #### Detection
 - [Music Mood Detection Based On Audio And Lyrics With Deep Neural Net](https://arxiv.org/abs/1809.07276) | [**ISMIR 2018**]
 
